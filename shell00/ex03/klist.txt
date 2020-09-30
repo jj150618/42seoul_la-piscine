@@ -1,0 +1,5 @@
+Credentials cache: API:FF1F81FA-2D98-438C-9288-41349BB242D4
+        Principal: junghkim@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jul 29 23:40:48 2020  Jul 30 09:40:48 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
